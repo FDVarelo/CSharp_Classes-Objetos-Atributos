@@ -14,6 +14,15 @@ namespace Course6
             return Preco * Quantidade;
         }
 
+        public void AdicionarQuantidade(int valor)
+        {
+            Quantidade += valor;
+        }
+        public void DiminuirQuantidade(int valor)
+        {
+            Quantidade -= valor;
+        }
+
         public override string ToString()
         {
             return Nome 
