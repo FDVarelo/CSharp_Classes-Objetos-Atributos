@@ -1,0 +1,15 @@
+C:\temp\WS-VS-2022\Course5\Course5\bin\Debug\net6.0\Course5.exe
+C:\temp\WS-VS-2022\Course5\Course5\bin\Debug\net6.0\Course5.deps.json
+C:\temp\WS-VS-2022\Course5\Course5\bin\Debug\net6.0\Course5.runtimeconfig.json
+C:\temp\WS-VS-2022\Course5\Course5\bin\Debug\net6.0\Course5.dll
+C:\temp\WS-VS-2022\Course5\Course5\bin\Debug\net6.0\Course5.pdb
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.csproj.AssemblyReference.cache
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.AssemblyInfoInputs.cache
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.AssemblyInfo.cs
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.csproj.CoreCompileInputs.cache
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.dll
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\refint\Course5.dll
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.pdb
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\Course5.genruntimeconfig.cache
+C:\temp\WS-VS-2022\Course5\Course5\obj\Debug\net6.0\ref\Course5.dll
